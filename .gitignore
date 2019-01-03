@@ -1,2 +1,8 @@
-config/app_user.yml
-config/databases.yml
+vendor
+composer.phar
+composer.lock
+config/config.ini
+demos/*.dem*
+logs/*
+.idea/
+node_modules

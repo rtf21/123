@@ -1,11 +1,15 @@
-eBot-CSGO-Web
-===================
+## Before going further
+
+If you want some help about eBot, check the new forum instead of creating a new issue: http://forum.esport-tools.net
+
+eBot-CSGO
+==============
 
 The eBot is a full managed server-bot written in PHP and nodeJS. eBot features easy match creation and tons of player and matchstats. Once it's setup, using the eBot is simple and fast.
 
 **This tools use:**
-This is the web panel for [eBot-CSGO](https://github.com/deStrO/eBot-CSGO)
-The panel is based on Symfony 1.4
+* [steamCondenser](https://github.com/koraktor/steam-condenser-php)
+* [phpws](https://github.com/Devristo/phpws) (only websocket client)
 
 ## Requirements
 * Linux, Windows
@@ -34,3 +38,4 @@ You can copy, distribute, modify the source code, but you have to keep the licen
 ## See also
 * [eSport-tools.net website](http://www.esport-tools.net/)
 * [Steam Condenser home](https://koraktor.de/steam-condenser)
+
